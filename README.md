@@ -71,22 +71,25 @@
   
   • Stronger air interface security: In addition to user data encryption on 2G, 3G, and 4G networks, 5G
   standards provide user data integrity protection to prevent user data from being tampered with.
+  
   • Enhanced user privacy protection: In 2G, 3G, and 4G networks, users' permanent IDs (international mobile
   subscriber identities — IMSIs), are transmitted in plain text over the air interface. Attackers can exploit this
   vulnerability using IMSI catcher attacks to track users. In 5G networks, users' permanent IDs (in this case,
   SUPIs) are transmitted in ciphertext to defend against such attacks.
+  
   • Better roaming security: Operators usually need to set up connections via third-party operators. Attackers
   can forge legitimate core network nodes to initiate Signaling System 7 and other attacks by manipulating
   third-party operators' devices. 5G SBA defines Security Edge Protection Proxy (SEPP) to implement E2E
   security protection for inter-operator signaling at the transport and application strata. This prevents thirdparty operators' devices from tampering with sensitive data (e.g. key, user ID, and SMS) exchanged
   between core networks.
+  
   • Enhanced cryptographic algorithms: 5G R15 standards currently define security mechanisms such as 256-
   bit key transmission. Future 5G standards will support 256-bit cryptographic algorithms to ensure that such
   algorithms used on 5G networks are sufficiently resistant to attacks by quantum computers. The 3GPP
   has recommended that the ETSI Security Algorithms Group of Experts (SAGE) start to evaluate 256-bit
   cryptographic algorithms.  
   ```
-
+  source: [Huawei: 5G Security Assurance](https://huawei.eu/file-download/download/public/1442#:~:text=4.1-,Industry%2Dleading%20Security%20Measures%20for%20the%20Access%20Network,security%20mechanisms%20used%20in%204G.&text=5G%20inherits%20security%20protection%20mechanisms,tampering%20on%20the%20user%20plane.)
 - Security Research and Result
   ```
   - Purdue University and the University of Iowa
