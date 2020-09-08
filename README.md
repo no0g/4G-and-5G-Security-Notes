@@ -5,7 +5,7 @@
   ```
   SS7 is being used for 35 years to provides signaling that enables mobile and fixed network operators to setup/teardown calls, to route text (SMS) messages, support inter-network connectivity and transparent roaming, and to provide per-session information such as caller ID. While SS7 was the foundation for signaling in 2G/3G circuit switch networks, Diameter has been introduced for 4G LTE and VoLTE packet networks and IP Multimedia Subsystem (IMS) based systems, and is key to enabling new revenue-generating IP services. Diameter signaling is also implemented in 5G network as there's no changes in requirement in terms of signaling
   ```
-  `source: [ribboncommunication: SS7 and Diameter Signaling](https://ribboncommunications.com/solutions/service-provider-solutions/mobile-network-evolution/ss7-and-diameter-signaling)`
+  source: [ribboncommunication: SS7 and Diameter Signaling](https://ribboncommunications.com/solutions/service-provider-solutions/mobile-network-evolution/ss7-and-diameter-signaling)
 ## 4G Security 
 - Concerns
   ```
@@ -27,7 +27,7 @@
 
 
   ```
-`source: [infradata: Diameter protocol has same vulnerablities as SS7 standard](https://www.infradata.com/news-blog/diameter-protocol-has-same-vulnerablities-as-ss7-standard/)`
+source: [infradata: Diameter protocol has same vulnerablities as SS7 standard](https://www.infradata.com/news-blog/diameter-protocol-has-same-vulnerablities-as-ss7-standard/)
 
 - Hacking 4G Phone
   ```
@@ -39,7 +39,7 @@
 
   Hacker can build this IMSI catcher with $800 
   ```
-  `source: [NDC Conference: Hacking 4G and how to get arrested in 10 minutes - Christian Sørseth
-](https://www.youtube.com/watch?v=DEeOFE_DreU)`
+  source: [NDC Conference: Hacking 4G and how to get arrested in 10 minutes - Christian Sørseth
+](https://www.youtube.com/watch?v=DEeOFE_DreU)
 
 
