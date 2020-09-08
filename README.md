@@ -46,4 +46,13 @@ source: [infradata: Diameter protocol has same vulnerablities as SS7 standard](h
   source: [NDC Conference: Hacking 4G and how to get arrested in 10 minutes - Christian Sørseth
 ](https://www.youtube.com/watch?v=DEeOFE_DreU)
 
+- Hacking 4G Module in IOTs and Cars 
+  ```
+  What XiaoHuiHui and team have found:
 
+  - General Vulnerabilities on Embede Linux or RTOS
+  - Authentication risk in several modules
+  - Remote Code Executionin 5+ cars T-Box
+  - Vulnerabilities in all partsof 4G including Web Vuln in server-side and System Management Service in Client-side
+  ```
+  source: [DEFCON27: XiaoHuiHui - All the 4G Modules Could Be Hacked](https://www.youtube.com/watch?v=OORUkEsannA)
