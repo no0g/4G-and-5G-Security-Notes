@@ -29,7 +29,7 @@
 
 
   ```
-source: [infradata: Diameter protocol has same vulnerablities as SS7 standard](https://www.infradata.com/news-blog/diameter-protocol-has-same-vulnerablities-as-ss7-standard/)
+  source: [infradata: Diameter protocol has same vulnerablities as SS7 standard](https://www.infradata.com/news-blog/diameter-protocol-has-same-vulnerablities-as-ss7-standard/)
 
 - Hacking 4G Phone
   ```
@@ -62,3 +62,42 @@ source: [infradata: Diameter protocol has same vulnerablities as SS7 standard](h
 - What's new?
   ![alt text](https://i.imgur.com/CUHSdyv.jpg)
   source: [thalesgroup: 5G AND 4G: WHAT’S THE DIFFERENCE?](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/mobile/magazine/5g-and-4g-whats-difference)
+
+- New Security Measure
+  ```
+  The 5G SA network supports more security features to tackle potential security challenges in the future 5G
+  lifecycle. 5G NSA and 4G networks share the same security mechanisms and work in standard and practice
+  consistently to keep improving their security levels.
+  
+  • Stronger air interface security: In addition to user data encryption on 2G, 3G, and 4G networks, 5G
+  standards provide user data integrity protection to prevent user data from being tampered with.
+  • Enhanced user privacy protection: In 2G, 3G, and 4G networks, users' permanent IDs (international mobile
+  subscriber identities — IMSIs), are transmitted in plain text over the air interface. Attackers can exploit this
+  vulnerability using IMSI catcher attacks to track users. In 5G networks, users' permanent IDs (in this case,
+  SUPIs) are transmitted in ciphertext to defend against such attacks.
+  • Better roaming security: Operators usually need to set up connections via third-party operators. Attackers
+  can forge legitimate core network nodes to initiate Signaling System 7 and other attacks by manipulating
+  third-party operators' devices. 5G SBA defines Security Edge Protection Proxy (SEPP) to implement E2E
+  security protection for inter-operator signaling at the transport and application strata. This prevents thirdparty operators' devices from tampering with sensitive data (e.g. key, user ID, and SMS) exchanged
+  between core networks.
+  • Enhanced cryptographic algorithms: 5G R15 standards currently define security mechanisms such as 256-
+  bit key transmission. Future 5G standards will support 256-bit cryptographic algorithms to ensure that such
+  algorithms used on 5G networks are sufficiently resistant to attacks by quantum computers. The 3GPP
+  has recommended that the ETSI Security Algorithms Group of Experts (SAGE) start to evaluate 256-bit
+  cryptographic algorithms.  
+  ```
+
+- Security Research and Result
+  ```
+  - Purdue University and the University of Iowa
+
+  The researchers, using their tool called the "5GReasoner", found that 5G is still subject to some of the same exploits as 4G, despite touting a more "robust security posture" than previous cellular network generations.
+
+  The 5GReasoner discovered 11 new surveillance and disruption threats to the network by conducting a series of attacks against 5G-connected phones from a radio base station.
+
+  In one of these attacks, researchers obtained old and new temporary network identifiers of a victim's phone, which allowed them to track its location through its paging occasion. They could also broadcast fake emergency alerts by hijacking the paging channel, which could lead to "artificial chaos." Both real-time location tracking and false emergency alerts are vulnerabilities shared by 4G and 5G networks.
+
+  Another attack discovered a means to create a prolonged denial-of-service condition, which could completely disconnect a target's phone from the network for an extended period of time. It could also downgrade the phone to a less secure connection, leaving it open for law enforcement and other hackers to launch surveillance attacks.
+
+  ```
+  source: [ITPRO: 5G networks are vulnerable to hacking](https://www.itpro.co.uk/mobile-security/34807/5g-networks-are-vulnerable-to-hacking)
