@@ -61,4 +61,4 @@ source: [infradata: Diameter protocol has same vulnerablities as SS7 standard](h
 
 - What's new?
   ![alt text](https://i.imgur.com/CUHSdyv.jpg)
-
+  source: [thalesgroup: 5G AND 4G: WHAT’S THE DIFFERENCE?](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/mobile/magazine/5g-and-4g-whats-difference)
