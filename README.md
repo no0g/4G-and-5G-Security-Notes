@@ -53,6 +53,12 @@ source: [infradata: Diameter protocol has same vulnerablities as SS7 standard](h
   - General Vulnerabilities on Embede Linux or RTOS
   - Authentication risk in several modules
   - Remote Code Executionin 5+ cars T-Box
-  - Vulnerabilities in all partsof 4G including Web Vuln in server-side and System Management Service in Client-side
+  - Vulnerabilities in all parts of 4G including Web Vuln in server-side and System Management Service in Client-side
   ```
   source: [DEFCON27: XiaoHuiHui - All the 4G Modules Could Be Hacked](https://www.youtube.com/watch?v=OORUkEsannA)
+
+## 5G Security
+
+- What's new?
+  ![alt text](https://i.imgur.com/CUHSdyv.jpg)
+
